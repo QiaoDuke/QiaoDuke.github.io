@@ -5,16 +5,16 @@ project:
 website:
   page-navigation: true
   title: "Shitong Qiao"
-  site-url: https://josieduke.github.io/
+  site-url: https://qiaoduke.github.io/
   favicon: images/site-logo.png
-  repo-url: https://github.com/Josieduke/Josieduke.github.io
+  repo-url: https://github.com/QiaoDuke/QiaoDuke.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
       # [lianxh.cn](https://www.lianxh.cn)<br>
     right: |
-      Made with [Quarto](https://quarto.org/)<br>
+      # Made with [Quarto](https://quarto.org/)<br>
     
   navbar: 
     background: "#A9CCE3"
