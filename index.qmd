@@ -31,9 +31,9 @@ about:
     # - icon: solid user
     #   text: 工作主页
     #   # href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: linkin
-      # href: https://www.lianxh.cn
+    - icon: Linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/shitong-qiao-965aa743/
     - icon: 📝
       text: CV
       href: CV.pdf  
