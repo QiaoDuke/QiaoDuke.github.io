@@ -12,12 +12,12 @@ website:
   
   page-footer:
     left: |
-      # [lianxh.cn](https://www.lianxh.cn)<br>
+       [dukelaw](https://law.duke.edu/)<br>
     right: |
-      # Made with [Quarto](https://quarto.org/)<br>
+       Made with [Quarto](https://quarto.org/)<br>
     
   navbar: 
-    background: "#A9CCE3"
+    background: "#88398A"
     search: true
     right: 
       - text: "Home"
