@@ -13,8 +13,6 @@ editor: visual
 
  
 
-## **Bibliography**
-
 ### **Forthcoming**
 
 - [Governing With Digital Platforms: A Chinese Lesson for the U.S.?](https://ssrn.com/abstract=6110671), *Duke Journal of Comparative & International Law* (forthcoming)
