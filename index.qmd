@@ -1,0 +1,54 @@
+---
+title: "Shitong Qiao"
+image: images/Qiao, Shitong.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: mailbox
+      text: qiao@law.duke.edu
+      href: mailto:qiao@law.duke.edu
+    - icon: github
+      text: qiao
+      # href: https://github.com/lianyujun
+    - icon: book
+      text: Google Scholar
+      # href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+    - icon: fingerprint
+      text: ORCID
+      # href: https://orcid.org/0000-0002-2011-7535
+    - icon: brands zhihu
+      text: 知乎
+      # href: https://www.zhihu.com/people/arlionn/
+    - icon: brands weibo
+      text: 微博
+      href: https://weibo.com/arlionn
+    - icon: brands xing
+      text: 小红书
+      # href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
+    - icon: solid user
+      text: 工作主页
+      # href: https://lingnan.sysu.edu.cn/faculty/LianYujun
+    - icon: brands home
+      text: linkin
+      # href: https://www.lianxh.cn
+    - icon: 📝
+      text: CV
+      href: CV.pdf  
+---
+
+::: {#hero-heading}
+
+Shitong Qiao is the Ken Young-Gak Yun and Jinah Park Yun Distinguished Professor of Law at Duke University, where he teaches Property and Comparative Law. He also holds the title of Honorary Professor at the University of Hong Kong and is a core faculty member of the Asia/Pacific Studies Institute at Duke University. He was previously a tenured professor at the University of Hong Kong, a Law and Public Affairs (LAPA) fellow at Princeton University, and the inaugural Jerome A. Cohen Visiting Professor of Law at NYU.
+
+Professor Qiao employs mixed methods to explore the relationship between political power, law, and private ordering. His first monograph, Chinese Small Property: The Co-Evolution of Law and Social Norms (Cambridge University Press, 2017), investigates how a real estate economy took off without legal titles. His second monograph, The Authoritarian Commons: Neighborhood Democratization in Urban China (Cambridge University Press, 2025), provides an ethnographic account of how hundreds of millions of Chinese homeowners practice democracy in and beyond their condominium complexes.
+
+Professor Qiao has also published numerous articles in top law and public policy journals, and won multiple research prizes including but not limited to the Judge Ralph K. Winter Prize (Yale), the Hessel Yntema Prize (American Society of Comparative Law), and The Masahiko Aoki Award for Economic Paper (Tsinghua). In addition, he has served as an expert witness on the Chinese property regime in China, Canada, and the U.S.
+
+## Background
+
+
+
+:::
