@@ -31,7 +31,7 @@ $blue: #0000ff;  /* 定义蓝色变量 */
 
 /* 主要背景和字体颜色 */
 $body-bg: $theme-white;
-$body-color: $theme-darkcoffee1; /* 正文字体颜色 */
+$body-color: $theme-purple3; /* 正文字体颜色 */
 $headings-color: $theme-milkcoffee2; /* 标题字体颜色 */
 $link-color: $red; /* 默认超链接颜色 */
 
@@ -42,11 +42,11 @@ $code-block-bg-alpha: -0.8; /* 代码块背景的透明度 */
 $background-color: $theme-milkcoffee0; /* 页面背景色 */
 
 /* 导航栏 */
-$navbar-bg: $theme-darkgreen1; /* 导航栏背景颜色 */
+$navbar-bg: $theme-purple3; /* 导航栏背景颜色 */
 
 /* 提示框颜色 */
-$callout-color-note: $theme-darkgreen2; /* 提示框的注释颜色 */
-$callout-color-tip: $theme-darkgreen1; /* 提示框的小贴士颜色 */
+$callout-color-note: $theme-purple3; /* 提示框的注释颜色 */
+$callout-color-tip: $theme-purple3; /* 提示框的小贴士颜色 */
 
 /* 字体设置 */
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
@@ -106,13 +106,13 @@ code {
 
 /* 标题样式 */
 h1 {
-  color: $theme-darkcoffee3;
+  color: $theme-purple3;
   font-family: $font-pt;
   font-size: 40px;
 }
 
 h2 {
-  color: $theme-darkcoffee3;
+  color: $theme-purple4;
   font-family: $font-pt;
   font-size: 30px;
 }
@@ -123,7 +123,7 @@ h3, h4 {
 }
 
 h4 {
-  color: $theme-darkgreen1;
+  color: $theme-purple5;
 }
 
 /* 代码块和推送样式 */
