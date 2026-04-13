@@ -10,27 +10,12 @@ about:
     - icon: mailbox
       text: qiao@law.duke.edu
       href: mailto:qiao@law.duke.edu
-    - icon: github
-      text: qiao
-      # href: https://github.com/lianyujun
     - icon: book
       text: Google Scholar
-      # href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
-    - icon: fingerprint
-      text: ORCID
-      # href: https://orcid.org/0000-0002-2011-7535
-    # - icon: brands zhihu
-    #   text: 知乎
-    #   # href: https://www.zhihu.com/people/arlionn/
-    # - icon: brands weibo
-    #   text: 微博
-    #   # href: https://weibo.com/arlionn
-    # - icon: brands xing
-    #   text: 小红书
-    #   # href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
-    # - icon: solid user
-    #   text: 工作主页
-    #   # href: https://lingnan.sysu.edu.cn/faculty/LianYujun
+      href: https://scholar.google.com/citations?user=SeUxOg4AAAAJ&hl=en
+    - icon: link
+      text: SSRN
+      href: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1485289
     - icon: Linkedin
       text: linkedin
       href: https://www.linkedin.com/in/shitong-qiao-965aa743/
@@ -48,6 +33,9 @@ Professor Qiao employs mixed methods to explore the relationship between politic
 Professor Qiao has also published numerous articles in top law and public policy journals, and won multiple research prizes including but not limited to the Judge Ralph K. Winter Prize (Yale), the Hessel Yntema Prize (American Society of Comparative Law), and The Masahiko Aoki Award for Economic Paper (Tsinghua). In addition, he has served as an expert witness on the Chinese property regime in China, Canada, and the U.S.
 
 ## Background
+
+## Others
+
 
 
 
