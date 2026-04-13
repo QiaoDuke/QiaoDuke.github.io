@@ -21,7 +21,7 @@ about:
       href: https://www.linkedin.com/in/shitong-qiao-965aa743/
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      # href: CV.pdf  
 ---
 
 ::: {#hero-heading}
