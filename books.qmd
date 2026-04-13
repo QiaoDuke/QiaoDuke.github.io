@@ -7,22 +7,20 @@ editor:
 
 
 
-> [主页](https://www.lianxh.cn) || [课程](https://www.lianxh.cn/details/17.html)  || [视频](https://lianxh-class.cn/) || [推文](https://www.lianxh.cn/blogs/all.html) || [资料](https://www.lianxh.cn/share.html)
+> [主页](https://) || [课程](https://www)  || [视频](https://) || [推文](https://) || [资料](https://)
 
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="https://book.lianxh.cn/stata101/index.html">
-    <img style="width: 250px" src="https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/stata101-front.png">
+  <a href="https://www.amazon.com/Authoritarian-Commons-Neighborhood-Democratization-Context-ebook/dp/B0DNTMWZYW/ref=sr_1_1?crid=24FFM0YAKY3J&dib=eyJ2IjoiMSJ9.6mNPiKpWTYyebDeThU8HuOmuvfdO3vpnDBMe6v0Axb4.CRSVPdSRRqJCFW2j54vxeXtH2_6gAGcSkSAtkOsSUPA&dib_tag=se&keywords=shitong+qiao&qid=1776101565&s=books&sprefix=shitong+qiao%2Cstripbooks%2C117&sr=1-1">
+    <img style="width: 250px" src="https://m.media-amazon.com/images/I/511JRqVZoAL._SY522_.jpg">
   </a>
   
-  <a href="https://book.lianxh.cn/ds/index.html">
-    <img style="width: 260px" src="https://book.lianxh.cn/ds/images/ds-book-front.png">
+  <a href="https://www.amazon.com/Chinese-Small-Property-Co-Evolution-Social-ebook/dp/B075V88L2T/ref=sr_1_2?crid=24FFM0YAKY3J&dib=eyJ2IjoiMSJ9.6mNPiKpWTYyebDeThU8HuOmuvfdO3vpnDBMe6v0Axb4.CRSVPdSRRqJCFW2j54vxeXtH2_6gAGcSkSAtkOsSUPA&dib_tag=se&keywords=shitong+qiao&qid=1776101565&s=books&sprefix=shitong+qiao%2Cstripbooks%2C117&sr=1-2">
+    <img style="width: 260px" src="https://m.media-amazon.com/images/I/41wwq4tbD5L._SY445_SX342_QL70_FMwebp_.jpg">
   </a>
   
-  <a href="https://lianxhcn.github.io/quarto_book/">
-    <img style="width: 248px" src="https://lianxhcn.github.io/quarto_book/images/book-front.png">
-  </a>
+
 </div>
 
 
@@ -30,12 +28,12 @@ editor:
 ## xxx
 
 - xxx，2025，[xxx](https://) | [课件下载](https://xxx)
-  - 观看配套视频：[视频课堂](https://lianxh-class.cn/view/1527932289698443345) | [B 站](https://)
+  - 观看视频：[视频](https://lianxh-class.cn/view/1527932289698443345) | [B 站](https://)
 
 &emsp;
 
 ![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
 
 
-> [主页](https://www.lianxh.cn) || [课程](https://www.lianxh.cn/details/17.html)  || [视频](https://lianxh-class.cn/) || [推文](https://www.lianxh.cn/blogs/all.html) || [资料](https://www.lianxh.cn/share.html)
+> [主页](https://) || [课程](https://)  || [视频](https://) || [推文](https://) || [资料](https://)
 
