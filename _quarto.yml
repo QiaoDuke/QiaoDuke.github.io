@@ -25,9 +25,9 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Book:The Authoritarian Commons"
+      - text: "BOOK:The Authoritarian Commons"
         href: books.qmd
-      - text: "Book:Chinese Small Property"
+      - text: "BOOK:Chinese Small Property"
         href: books2.qmd
       # - text: "Blogs"
       #   href: blog.qmd
