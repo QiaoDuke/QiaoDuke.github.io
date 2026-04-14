@@ -44,7 +44,7 @@ Cambridge University Press
 ::: {style="flex: 1; min-width: 200px; text-align: center;"}
 [![Chinese Small Property](https://m.media-amazon.com/images/I/41wwq4tbD5L._SY445_SX342_QL70_FMwebp_.jpg){width='180'}](books2.html)
 **Chinese Small Property**
-Oxford University Press
+Cambridge University Press
 :::
 :::
 
