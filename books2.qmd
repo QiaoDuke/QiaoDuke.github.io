@@ -1,5 +1,5 @@
 ---
-title: "Books:Chinese Small Property"
+title: "BOOK:Chinese Small Property"
 editor: 
   markdown: 
     wrap: 72
@@ -16,9 +16,13 @@ The Co-Evolution of Law and Social Norms
 Cambridge University Press, 2017. (paperback, 2019)
 
 [Book Link](https://www.cambridge.org/core/books/chinese-small-property/0DA7C7788ED64E22772314216901E495)
+
 - The inaugural Masahiko Aoki Award for Economic Paper (2017) [Media coverage: [English](http://www.sppm.tsinghua.edu.cn/english/news/26efe48960740c88016097044576000e.html); [Japanese](https://www.nikkei.com/article/DGXMZO24737550W7A211C1EA3000/); [Chinese](http://news.sina.com.cn/o/2017-12-26/doc-ifypxmsr0816561.shtml)]
+  
 - The University of Hong Kong Research Output Prize (awarded annually to the best research output of each faculty), 2018.   
+  
 - Book Review: Weitseng Chen, Small Property in China and Big Implications on Property Theories, The International Journal of Constitutional Law (I-CON), Vol. 16, Issue 1, 723-727 (2018)
+  
 - Book Review: Sida Liu, Property Law and Property Rights in China, Asian Journal of Law and Society, doi:10.1017/als.2018.19. 
 
 

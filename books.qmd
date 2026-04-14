@@ -1,5 +1,5 @@
 ---
-title: "Books:The Authoritarian Commons"
+title: "BOOK:The Authoritarian Commons"
 editor: 
   markdown: 
     wrap: 72
@@ -16,12 +16,19 @@ Neighborhood Democratization in Urban China
 (Cambridge University Press, January 2025)
 
 [Book Link](https://www.cambridge.org/core/books/authoritarian-commons/8448568C2EFDEDE6790FEB0C622C7D1B)
+
 - Selected for the Inaugural Asian Law Junior Faculty Workshop, National University of Singapore, June 13, 2019 (8 out of 311 submissions) 
+
 - Selected for Challenges to the Rule of Law: Lessons from and for Asia, AALS Annual Meeting, Washington, D.C., Jan. 2-5, 2020. 
+
 - Law and Public Affairs Fellowship Program, Princeton. 
+
 - Book Talks: Duke, Yale, Stanford, Columbia, Chicago, NYU, Penn, McGill, American Bar Foundation, LSA Annual Meeting (book panel), Harvard-MIT Urban China Series (Zoom), Urban China Research Network Series (jointly hosted by Fudan and Jiaotong University, Zoom).   
+
 - Book Reviews: China Quarterly (Ben Read), Asian Journal of Law & Society (Yiang Zhu), [Europe-Asia Studies](https://www.tandfonline.com/doi/full/10.1080/09668136.2025.2589621) (Rongxin Li), Law & Social Inquiry (Florian Grisel), Australian Journal of Asian Law (Ruoying Chen)
+
 - Interviews: [The Law and Political Economy Project](https://lpeproject.org/blog/the-authoritarian-commons-an-interview-with-shitong-qiao/) (with Jed Purdy), [European Chinese Law Research Hub](https://blog.uni-koeln.de/eclrhub/2025/01/23/the-authoritarian-commons-qa-with-shitong-qiao/) (with Marianne von Blomberg ), [U.S.- China Perception Monitor](https://uscnpm.org/interviews/shitong-qiao-on-chinas-neighborhood-democratization/) (with Alice Liu), [China Governance Lab](https://www.chinagovernancelab.org/graduate-fellows/on-the-authoritarian-commons-book-review) at The University of Toronto (with Mary Hertz)
+
 #### Reviews
 - ‘In this fascinating study, Qiao documents and insightfully analyzes how the development of homeowners’ associations (HoAs) in China generated an ongoing democratic revolution in hundreds of thousands of neighborhoods. This book is a must-read for students of China, of the emergence of democracy, and of property theory.’ ***Hanoch Dagan, UC Berkeley School of Law***
 
