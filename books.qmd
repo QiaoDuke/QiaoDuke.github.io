@@ -13,7 +13,8 @@ editor:
 <div style="flex: 1;">
 ### [The Authoritarian Commons](https://www.cambridge.org/core/books/authoritarian-commons/8448568C2EFDEDE6790FEB0C622C7D1B)
 Neighborhood Democratization in Urban China
-(Cambridge University Press, January 2025)
+
+Cambridge University Press, January 2025
 
 [Book Link](https://www.cambridge.org/core/books/authoritarian-commons/8448568C2EFDEDE6790FEB0C622C7D1B)
 

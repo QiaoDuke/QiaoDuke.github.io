@@ -13,6 +13,7 @@ editor:
 <div style="flex: 1;">
 ### [Chinese Small Property](https://www.cambridge.org/core/books/chinese-small-property/0DA7C7788ED64E22772314216901E495)
 The Co-Evolution of Law and Social Norms
+
 Cambridge University Press, 2017. (paperback, 2019)
 
 [Book Link](https://www.cambridge.org/core/books/chinese-small-property/0DA7C7788ED64E22772314216901E495)
