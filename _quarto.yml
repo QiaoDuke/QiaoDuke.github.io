@@ -25,12 +25,14 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
+      - text: "Book:The Authoritarian Commons"
         href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "中文"
-        href: Chinese.qmd
+      - text: "Book:Chinese Small Property"
+        href: books2.qmd
+      # - text: "Blogs"
+      #   href: blog.qmd
+      # - text: "中文"
+      #   href: Chinese.qmd
       # - text: "CV"
         # href: CV.pdf
 

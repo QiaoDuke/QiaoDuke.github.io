@@ -32,10 +32,21 @@ Professor Qiao employs mixed methods to explore the relationship between politic
 
 Professor Qiao has also published numerous articles in top law and public policy journals, and won multiple research prizes including but not limited to the Judge Ralph K. Winter Prize (Yale), the Hessel Yntema Prize (American Society of Comparative Law), and The Masahiko Aoki Award for Economic Paper (Tsinghua). In addition, he has served as an expert witness on the Chinese property regime in China, Canada, and the U.S.
 
-## Background
+## Books
 
-## Others
+::: {style="display: flex; gap: 40px; margin: 2em 0; flex-wrap: wrap;"}
+::: {style="flex: 1; min-width: 200px; text-align: center;"}
+[![The Authoritarian Commons](https://m.media-amazon.com/images/I/511JRqVZoAL._SY522_.jpg){width='180'}](books.html)
+**The Authoritarian Commons**
+University of Chicago Press
+:::
 
+::: {style="flex: 1; min-width: 200px; text-align: center;"}
+[![Chinese Small Property](https://m.media-amazon.com/images/I/41wwq4tbD5L._SY445_SX342_QL70_FMwebp_.jpg){width='180'}](books2.html)
+**Chinese Small Property**
+Oxford University Press
+:::
+:::
 
 
 

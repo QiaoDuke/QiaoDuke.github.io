@@ -1,5 +1,5 @@
 ---
-title: "Books"
+title: "Books:The Authoritarian Commons"
 editor: 
   markdown: 
     wrap: 72
@@ -11,11 +11,17 @@ editor:
 </a>
 
 <div style="flex: 1;">
-### The Authoritarian Commons
+### [The Authoritarian Commons](https://www.cambridge.org/core/books/authoritarian-commons/8448568C2EFDEDE6790FEB0C622C7D1B)
 Neighborhood Democratization in Urban China
+(Cambridge University Press, January 2025)
 
 [Book Link](https://www.cambridge.org/core/books/authoritarian-commons/8448568C2EFDEDE6790FEB0C622C7D1B)
-
+- Selected for the Inaugural Asian Law Junior Faculty Workshop, National University of Singapore, June 13, 2019 (8 out of 311 submissions) 
+- Selected for Challenges to the Rule of Law: Lessons from and for Asia, AALS Annual Meeting, Washington, D.C., Jan. 2-5, 2020. 
+- Law and Public Affairs Fellowship Program, Princeton. 
+- Book Talks: Duke, Yale, Stanford, Columbia, Chicago, NYU, Penn, McGill, American Bar Foundation, LSA Annual Meeting (book panel), Harvard-MIT Urban China Series (Zoom), Urban China Research Network Series (jointly hosted by Fudan and Jiaotong University, Zoom).   
+- Book Reviews: China Quarterly (Ben Read), Asian Journal of Law & Society (Yiang Zhu), [Europe-Asia Studies](https://www.tandfonline.com/doi/full/10.1080/09668136.2025.2589621) (Rongxin Li), Law & Social Inquiry (Florian Grisel), Australian Journal of Asian Law (Ruoying Chen)
+- Interviews: [The Law and Political Economy Project](https://lpeproject.org/blog/the-authoritarian-commons-an-interview-with-shitong-qiao/) (with Jed Purdy), [European Chinese Law Research Hub](https://blog.uni-koeln.de/eclrhub/2025/01/23/the-authoritarian-commons-qa-with-shitong-qiao/) (with Marianne von Blomberg ), [U.S.- China Perception Monitor](https://uscnpm.org/interviews/shitong-qiao-on-chinas-neighborhood-democratization/) (with Alice Liu), [China Governance Lab](https://www.chinagovernancelab.org/graduate-fellows/on-the-authoritarian-commons-book-review) at The University of Toronto (with Mary Hertz)
 #### Reviews
 - ‘In this fascinating study, Qiao documents and insightfully analyzes how the development of homeowners’ associations (HoAs) in China generated an ongoing democratic revolution in hundreds of thousands of neighborhoods. This book is a must-read for students of China, of the emergence of democracy, and of property theory.’ ***Hanoch Dagan, UC Berkeley School of Law***
 
@@ -34,41 +40,9 @@ Neighborhood Democratization in Urban China
 </div>
 :::
 
-::: {style="display: flex; gap: 25px; margin: 2em 0; align-items: flex-start;"}
-<a href="https://www.amazon.com/Chinese-Small-Property-Co-Evolution-Social-ebook/dp/B075V88L2T" target="_blank">
-<img src="https://m.media-amazon.com/images/I/41wwq4tbD5L._SY445_SX342_QL70_FMwebp_.jpg" style="width: 160px; border-radius: 6px;">
-</a>
 
-<div style="flex: 1;">
-### Chinese Small Property
-The Co-Evolution of Law and Social Norms
-
-[Book Link](https://www.cambridge.org/core/books/chinese-small-property/0DA7C7788ED64E22772314216901E495)
-
-####  Reviews
-- ‘A fascinating exploration of the lively housing market that arose in suburban Shenzhen outside the framework of formal law. Based on in-depth field research, Qiao documents the residential building boom, and he then assesses both the strengths and the ultimate limitations of extra-legal arrangements as engines of development.' ***Susan Rose-Ackerman, Yale University, Connecticut***
-
-- ‘Can a vibrant real estate market arise in a nation with a stunted legal system? Hernando de Soto famously thought not. Splendidly interweaving field findings with social-scientific theory, Shitong Qiao dismantles the de Soto thesis. In many Chinese cities, booming housing markets have rested largely on informal understandings.' ***Robert Ellickson, Walter E. Meyer Professor of Property and Urban Law, Yale Law School***
-
-- ‘In this remarkable book, Shitong Qiao not only illustrates the intricacies of China's booming periurban land market but also demonstrates how Chinese peasants, together with newly urbanizing industrial workers, have fashioned extensive systems of informal ‘small property' commercial land transactions, in spite of a legal system that purportedly forbids them. Qiao's book offers a nuanced discussion of the relationships between law and social norms in Chinese land markets, along with a significant rejoinder to the view that dynamic land markets depend on formal systems of property law.'***Carol M. Rose, University of Arizona***
-- ‘In this multi-disciplinary work, Qiao has taken Robert Ellickson's pioneering work on social norms and property rights from rural California to Shenzhen, China, one of the world's fastest growing, most complex urban markets. In doing so he has demonstrated that much of what we thought we knew about law, property rights, social norms, and development was incomplete at best and flat wrong at worst.' ***Frank Upham, Wilf Family Professor of Property Law, New York University School of Law***
-
-- 'All in all, this book provides very valuable insights into the evolution of China’s property rights regime. It revisits several influential conventional theories and offers critical and valid scrutiny based on empirical findings in China. These insights are most likely applicable to other primitive property markets in developing countries too. The author advances the theoretical depth of existing literature and offers an analytical framework for further research worth doing by scholars of varying fields, including property law, comparative law, law and development, and law and economics.' ***Weitseng Chen, ICON***
-</div>
-:::
-
-
-
-
-## 其他
-
-- xxx，2025，[xxx](https://) | [课件下载](https://xxx)
-  - 观看视频：[视频](https://lianxh-class.cn/view/1527932289698443345) | [B 站](https://)
 
 &emsp;
 
 ![](https://fig-lianxh.oss-cn-shenzhen.aliyuncs.com/Lianxh_装饰黄线.png)
-
-
-> [主页](https://) || [课程](https://)  || [视频](https://) || [推文](https://) || [资料](https://)
 
