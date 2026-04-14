@@ -38,7 +38,7 @@ Professor Qiao has also published numerous articles in top law and public policy
 ::: {style="flex: 1; min-width: 200px; text-align: center;"}
 [![The Authoritarian Commons](https://m.media-amazon.com/images/I/511JRqVZoAL._SY522_.jpg){width='180'}](books.html)
 **The Authoritarian Commons**
-University of Chicago Press
+Cambridge University Press
 :::
 
 ::: {style="flex: 1; min-width: 200px; text-align: center;"}
