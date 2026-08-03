@@ -15,7 +15,7 @@ editor: visual
 
 ### **Forthcoming**
 
-- [Governing With Digital Platforms: A Chinese Lesson for the U.S.?](https://ssrn.com/abstract=6110671), *Duke Journal of Comparative & International Law* ,forthcoming.
+- [Platforms as Enforcement Infrastructure: Copyright in China’s Online Music Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7044298), *American Journal of Comparative Law*, forthcoming
 
 <!-- -->
 
@@ -28,9 +28,6 @@ editor: visual
 - [*Chinese Small Property: The Co-Evolution of Law and Social Norms*](http://www.worldcat.org/oclc/986788642) (Cambridge University Press, 2017)
 
 ### **Articles & Essays**
-- [Platforms as Enforcement Infrastructure: Copyright in China’s Online Music Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7044298), *American Journal of Comparative Law*, forthcoming
-
-- [Social Norms 2.0: From Private Governance to Co-Evolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6408118),  *Law and Social Inquiry*, forthcoming. (invited book review)
 
 - [Governing with Digital Platforms: A Chinese Lesson for the U.S.?](https://scholarship.law.duke.edu/djcil/vol36/iss1/1/), 36 *Duke Journal of Comparative & International Law* 1-42 (2026)
 
@@ -123,6 +120,20 @@ editor: visual
 - [Governing the Post-Socialist Transitional Commons: A Case from Rural China](https://scholarship.law.duke.edu/faculty_scholarship/4514), 24 *Colorado Journal of International Environmental Law and Policy* 117-162 (2013), reprinted in 1 *Brigham-Kanner Property Rights Conference Journal* 303-344 (2012)
 
 - [Whither China’s Non-Interference Principle?](https://ssrn.com/abstract=1967551), 4 *European Society of International Law (ESIL) Research Forum* 1-25 (2011)
+
+### **Book Chapters**
+
+- [*The Structure and Spirit of Chinese Property Law*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928574), in [The Routledge Handbook of Property, Law and Society (]{.smallcaps}edited by Nicole Graham, Margaret Davies and Lee Godden, 2022[)]{.smallcaps}, 52-60.
+
+- [*The Evolution of Property Law in China: Stick by Stick*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2747239)*?,* in [Private Law in China and Taiwan: Economic and Legal Analysis]{.smallcaps} (Yun-chien Chang et al ed., Cambridge University Press 2017), 182-211.
+
+- Reviewed in Gregory M. Stein, [*The Sticks in the Chinese Property Rights Bundle*](https://property.jotwell.com/the-sticks-in-the-chinese-property-rights-bundle/), [JOTWELL]{.smallcaps} (The Journal of Things We Like (Lots)) (June 15, 2017)
+
+- [*The Changing Landscape of Chinese Property Law*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2925067)*,* in [Research Handbook of Comparative Property Law]{.smallcaps} (Graziadei and Smith eds., Edward Elgar 2017), 311-332. (with Frank Upham). 
+
+- [*Small Property, Adverse Possession and Optional Law*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2437639)*,* in [Law and Economics of Possession]{.smallcaps} (Yun-chien Chang ed., Cambridge University Press 2015), 290-319.
+
+### **Chinese-Language Publications**
 
 - 权利分置的逻辑\[*The Logic of Rights Separation*\], 法律与社会科学\[Law and Social Sciences\], 2023.
 
