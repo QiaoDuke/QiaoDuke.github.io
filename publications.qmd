@@ -28,8 +28,11 @@ editor: visual
 - [*Chinese Small Property: The Co-Evolution of Law and Social Norms*](http://www.worldcat.org/oclc/986788642) (Cambridge University Press, 2017)
 
 ### **Articles & Essays**
+- [Platforms as Enforcement Infrastructure: Copyright in China’s Online Music Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7044298), *American Journal of Comparative Law*, forthcoming
 
-- [[*Local Resistance to Central Ideology: How Have Chinese Homeowners Contested the Party’s Leadership*]{.underline}](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5869582)*?*, 36 *Yale Journal of Law & the Humanities* 695–713 (2026).
+- [Social Norms 2.0: From Private Governance to Co-Evolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6408118),  *Law and Social Inquiry*, forthcoming. (invited book review)
+
+- [Governing with Digital Platforms: A Chinese Lesson for the U.S.?](https://scholarship.law.duke.edu/djcil/vol36/iss1/1/), 36 *Duke Journal of Comparative & International Law* 1-42 (2026)
 
 - [From Taxi to Didi: Voice and Balancing in the Industrial Transition](https://doi.org/10.1017/lsi.2025.10092), *Law & Social Inquiry* (2025) (with Bingwan Xiong)
 
@@ -141,10 +144,10 @@ editor: visual
 
 - [Here Is How TDRs Outweigh Lantau Reclamation Plan](https://www.scmp.com/business/article/3127619/heres-how-transferable-development-rights-outweigh-lantau-reclamation-plan), *South China Morning Post* (March 31, 2021, at p2) (with Roderick M. Hills, Jr.)
 
-- [A New Age for the WHO?](https://usali.org/usali-perspectives-blog/a-new-age-for-the-who ), USALI Perspectives (January 4, 2021).
+- [A New Age for the WHO?](https://usali.org/usali-perspectives-blog/a-new-age-for-the-who), USALI Perspectives (January 4, 2021).
 
 - [Killing Two Birds with One Stone: How to End Rural Land Expropriation and Secure Tenure for Urban Property Owners at the Same Time](https://usali.org/usali-perspectives-blog/tag/Roderick+Hills+Jr), USALI Perspectives (January 21, 2021) (with Roderick M. Hills, Jr.).
-  
 
-### **Media Interviews and Opinions** 
+### **Media Interviews and Opinions**
+
 Agence France-Presse; BBC; China Daily; Deutsche Welle; Frankfurter Allgemeine Zeitung (FAZ); The Guardian; South China Morning Post; The Global and Mail; Oxford Business Law Blog; Bloomberg; NPR; New York Times; The Washington Post; People’s Court Daily (人民法院报); Caixin (财新); China Reform (中国改革); Phoenix Weekly (凤凰周刊)
