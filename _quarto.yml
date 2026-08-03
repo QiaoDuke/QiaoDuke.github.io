@@ -29,6 +29,8 @@ website:
         href: books.qmd
       - text: "BOOK:Chinese Small Property"
         href: books2.qmd
+      - text: "Talks & Reflections"
+        href: lecture.qmd
       # - text: "Blogs"
       #   href: blog.qmd
       # - text: "中文"

@@ -22,6 +22,7 @@ about:
     # - icon: 📝
       # text: CV
       # href: CV.pdf  
+
 ---
 
 ::: {#hero-heading}
@@ -31,7 +32,6 @@ Shitong Qiao is the Ken Young-Gak Yun and Jinah Park Yun Distinguished Professor
 Professor Qiao employs mixed methods to explore the relationship between political power, law, and private ordering. His first monograph, Chinese Small Property: The Co-Evolution of Law and Social Norms (Cambridge University Press, 2017), investigates how a real estate economy took off without legal titles. His second monograph, The Authoritarian Commons: Neighborhood Democratization in Urban China (Cambridge University Press, 2025), provides an ethnographic account of how hundreds of millions of Chinese homeowners practice democracy in and beyond their condominium complexes.
 
 Professor Qiao has also published numerous articles in top law and public policy journals, and won multiple research prizes including but not limited to the Judge Ralph K. Winter Prize (Yale), the Hessel Yntema Prize (American Society of Comparative Law), and The Masahiko Aoki Award for Economic Paper (Tsinghua). In addition, he has served as an expert witness on the Chinese property regime in China, Canada, and the U.S.
-
 
 ## Books
 
@@ -48,6 +48,25 @@ Cambridge University Press
 Cambridge University Press
 :::
 :::
+
+## Professional Qualification and Services
+
+**Bar Admissions:** National Judicial Examination of PRC (2007); New York State Bar Exam (2014)
+
+**Expert Witness:** Ontario Securities Commission; Supreme Court of the State of New York
+
+## Recent Talks
+#### 乔仕彤：互联网平台与中国知识产权保护的崛起
+[Read the recap →](https://mp.weixin.qq.com/s/PeJbJH173fqQW-CiXhgEtQ)
+
+#### 乔仕彤：探讨城市基层治理中的“法”——理论问题与实验证据
+[Read the recap →](https://mp.weixin.qq.com/s/pjZq4MWtXZZxU4usfutRmQ)
+
+#### 乔仕彤：无需法律的秩序？
+[Read the recap →](https://mp.weixin.qq.com/s/E1uLhwlImZAKNO7yHpUcRw)
+
+#### 上海交通大学中国法与社会研究院“法的学科交叉沙龙”第三十讲
+[Read the recap →](https://mp.weixin.qq.com/s/zbP-oHrw741wJ4X3rS0Enw)
 
 
 
