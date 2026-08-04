@@ -6,9 +6,9 @@ project:
 website:
   page-navigation: true
   title: "Shitong Qiao"
-  site-url: https://qiaoduke.github.io/
+  site-url: https://shitong-qiao.github.io/
   favicon: images/site-logo.png
-  repo-url: https://github.com/QiaoDuke/QiaoDuke.github.io
+  repo-url: https://github.com/shitong-qiao/shitong-qiao.github.io
   repo-actions: [edit, issue]
   
   page-footer:
